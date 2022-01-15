@@ -1,0 +1,5 @@
+set /p name=server:
+echo "Server %name%"
+
+set /p port=port:
+echo "Server %port%"
